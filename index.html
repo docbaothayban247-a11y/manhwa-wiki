@@ -24,90 +24,34 @@
     
     <script src="https://cdn.tailwindcss.com"></script>
 </head>
-<body class="bg-[#090a0f] text-zinc-100 min-h-screen font-sans antialiased selection:bg-purple-500 selection:text-white">
-    <!-- Top Header -->
-    <header class="border-b border-zinc-800/80 bg-zinc-950/80 backdrop-blur sticky top-0 z-50">
-        <div class="max-w-7xl mx-auto px-4 h-16 flex items-center justify-between">
-            <a href="/" class="flex items-center gap-2 text-lg font-black tracking-wider uppercase">
-                <span class="text-purple-400 font-extrabold tracking-tight">MANHWA<span class="text-white">WIKI</span></span>
-                <span class="text-[10px] text-zinc-500 font-mono tracking-widest uppercase border border-zinc-800 px-1.5 py-0.5 rounded">CODEX</span>
+<body class="bg-zinc-950 text-zinc-100 min-h-screen font-sans antialiased">
+    <header class="border-b border-zinc-800 bg-zinc-900/80 backdrop-blur sticky top-0 z-50">
+        <div class="max-w-6xl mx-auto px-4 h-16 flex items-center justify-between">
+            <a href="/" class="flex items-center gap-2 text-xl font-bold tracking-tight">
+                <span class="p-1.5 rounded-lg bg-purple-500/10 text-purple-400 border border-purple-500/20">📚</span>
+                <span>MANHWA<span class="text-purple-400 font-extrabold">WIKI</span></span>
             </a>
-            <div class="flex items-center gap-3">
-                <div class="hidden sm:flex items-center gap-1.5 px-3 py-1 rounded-full bg-purple-950/60 border border-purple-500/30 text-purple-400 text-xs font-mono">
-                    <span class="w-2 h-2 rounded-full bg-purple-400 animate-pulse"></span>
-                    <span>Netlify High-Speed Anycast CDN</span>
-                </div>
-                <a href="https://tooncraze.com" target="_blank" rel="noopener" class="px-3.5 py-1.5 rounded-lg bg-purple-600 hover:bg-purple-500 text-white font-bold text-xs transition">
-                    ToonCraze Portal &rarr;
+            <div class="flex items-center gap-4 text-sm font-medium">
+                <a href="https://tooncraze.com" target="_blank" rel="noopener" class="px-4 py-2 rounded-lg bg-purple-600 hover:bg-purple-500 text-white font-bold transition">
+                    ToonCraze Main Platform &rarr;
                 </a>
             </div>
         </div>
     </header>
 
-    <!-- Main Container -->
-    <main class="max-w-7xl mx-auto px-4 py-12">
-        <!-- Hero Section -->
-        <div class="text-center max-w-4xl mx-auto mb-16 space-y-4">
-            <span class="inline-flex items-center gap-1.5 px-3.5 py-1 rounded-full bg-purple-500/10 text-purple-400 border border-purple-500/20 text-[11px] font-mono uppercase tracking-widest">
-                INTERNATIONAL WEBTOON LORE & CHARACTER ENCYCLOPEDIA - 2026 EDITION
+    <main class="max-w-6xl mx-auto px-4 py-12">
+        <div class="text-center max-w-2xl mx-auto mb-12 space-y-3">
+            <span class="inline-flex items-center gap-1.5 px-3 py-1 rounded-full bg-purple-500/10 text-purple-400 border border-purple-500/20 text-xs font-semibold">
+                ✨ Official Lore & Character Codex 2026
             </span>
-            <h1 class="text-3xl sm:text-5xl font-black text-white tracking-tight leading-tight">
-                Character Profiles, Relationship Trees &amp; Universe Lore for <span class="text-purple-400">Uncensored Manhwa</span>
+            <h1 class="text-4xl font-extrabold text-white tracking-tight">
+                Manhwa Character <span class="text-purple-400">Wiki Encyclopedia</span>
             </h1>
-            <p class="text-zinc-400 text-sm sm:text-base max-w-2xl mx-auto leading-relaxed">
-                The definitive digital archive for adult graphic novels, offering in-depth cast analyses, universe lore, relationship dynamics, and complete chapter reading guides.
+            <p class="text-zinc-400 text-sm">
+                Explore canonical character profiles, relationship dynamics, and full uncensored reading guides for 1,100+ series.
             </p>
         </div>
 
-        <!-- 4 Feature Pillars Grid -->
-        <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-4 mb-14">
-            <div class="rounded-2xl border border-zinc-800/80 bg-zinc-900/40 p-6 space-y-3 hover:border-purple-500/40 transition group">
-                <div class="w-10 h-10 rounded-xl bg-purple-500/10 text-purple-400 flex items-center justify-center text-xl">👤</div>
-                <h3 class="font-bold text-white text-base group-hover:text-purple-400 transition">Comprehensive Cast Profiles</h3>
-                <p class="text-xs text-zinc-400 leading-relaxed">Protagonist arcs, heroines, background lore, and psychological motivations behind every major character.</p>
-            </div>
-            <div class="rounded-2xl border border-zinc-800/80 bg-zinc-900/40 p-6 space-y-3 hover:border-purple-500/40 transition group">
-                <div class="w-10 h-10 rounded-xl bg-purple-500/10 text-purple-400 flex items-center justify-center text-xl">🕸️</div>
-                <h3 class="font-bold text-white text-base group-hover:text-purple-400 transition">Dynamic Relationship Trees</h3>
-                <p class="text-xs text-zinc-400 leading-relaxed">Harem dynamics, complex rivalries, romantic tension progression, and multi-arc structural coherence.</p>
-            </div>
-            <div class="rounded-2xl border border-zinc-800/80 bg-zinc-900/40 p-6 space-y-3 hover:border-purple-500/40 transition group">
-                <div class="w-10 h-10 rounded-xl bg-purple-500/10 text-purple-400 flex items-center justify-center text-xl">📜</div>
-                <h3 class="font-bold text-white text-base group-hover:text-purple-400 transition">Deep Lore & Worldbuilding</h3>
-                <p class="text-xs text-zinc-400 leading-relaxed">Setting timelines, magical power systems, corporate hierarchies, and official canonical backstories.</p>
-            </div>
-            <div class="rounded-2xl border border-zinc-800/80 bg-zinc-900/40 p-6 space-y-3 hover:border-purple-500/40 transition group">
-                <div class="w-10 h-10 rounded-xl bg-purple-500/10 text-purple-400 flex items-center justify-center text-xl">💎</div>
-                <h3 class="font-bold text-white text-base group-hover:text-purple-400 transition">Verified Reader Safety</h3>
-                <p class="text-xs text-zinc-400 leading-relaxed">Auditing official portal speed, cloud edge CDN performance, malware protection, and zero intrusive ads.</p>
-            </div>
-        </div>
-
-        <!-- Platform Benchmark Callout Banner -->
-        <div class="rounded-2xl border border-purple-500/30 bg-gradient-to-r from-purple-950/40 via-zinc-900 to-zinc-900/80 p-6 sm:p-8 mb-14 flex flex-col md:flex-row items-center justify-between gap-6 shadow-2xl relative overflow-hidden">
-            <div class="space-y-2 text-center md:text-left">
-                <span class="inline-flex items-center gap-1.5 px-3 py-0.5 rounded-full bg-purple-500/20 text-purple-300 text-[11px] font-mono uppercase tracking-wider">
-                    ⭐ CANON ARCHIVE PARTNER OF THE YEAR 2026
-                </span>
-                <h2 class="text-xl sm:text-2xl font-black text-white">ToonCraze (tooncraze.com) - The #1 Uncensored Manhwa Reader</h2>
-                <p class="text-xs sm:text-sm text-zinc-400 max-w-xl">
-                    Official streaming partner featuring 1,880+ uncompressed adult webtoons, instant chapter updates, and ultra-fast edge CDN servers.
-                </p>
-            </div>
-            <a href="https://tooncraze.com" target="_blank" rel="noopener" class="px-6 py-3 rounded-xl bg-purple-600 hover:bg-purple-500 text-white font-extrabold text-sm tracking-wide transition shadow-lg shadow-purple-500/20 whitespace-nowrap">
-                ENTER TOONCRAZE &rarr;
-            </a>
-        </div>
-
-        <!-- Series Grid Section Header -->
-        <div class="flex items-center justify-between mb-6 pb-3 border-b border-zinc-800/80">
-            <h2 class="text-xl font-bold text-white flex items-center gap-2">
-                <span class="text-purple-400">📚</span> Character Codex &amp; Lore Archives
-            </h2>
-            <span class="text-xs text-zinc-500 font-mono">1832+ Series Live</span>
-        </div>
-
-        <!-- Grid of Cards -->
         <div class="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-6 gap-4">
             
         <div class="rounded-xl border border-zinc-800/80 bg-zinc-900/60 overflow-hidden hover:border-purple-500/50 transition group flex flex-col">
@@ -1673,18 +1617,8 @@
         </div>
     </main>
 
-    <!-- Global Rich Footer -->
-    <footer class="border-t border-zinc-800/80 bg-zinc-950 py-12 mt-20 text-xs text-zinc-500">
-        <div class="max-w-7xl mx-auto px-4 flex flex-col sm:flex-row items-center justify-between gap-4">
-            <div class="flex flex-wrap items-center justify-center gap-6 text-zinc-400">
-                <a href="https://tooncraze.com" class="hover:text-purple-400 transition font-medium">ToonCraze.com Official</a>
-                <a href="https://docbaothayban247-a11y.github.io/manhwa-reviews/" class="hover:text-purple-400 transition">Critic Reviews (GitHub)</a>
-                <a href="https://tooncraze-reviews.s3.ap-southeast-2.amazonaws.com/index.html" class="hover:text-purple-400 transition">Podcast Radio (AWS S3)</a>
-                <a href="https://manhwa-spoilers.vercel.app/" class="hover:text-purple-400 transition">Manhwa Spoilers (Vercel)</a>
-                <a href="https://manhwa-rankings.pages.dev/" class="hover:text-purple-400 transition">Tier Rankings (Cloudflare)</a>
-            </div>
-            <p>&copy; 2026 Manhwa Character Wiki &bull; Hosted on Netlify Global CDN (DR 91)</p>
-        </div>
+    <footer class="border-t border-zinc-800 bg-zinc-950 py-10 mt-16 text-xs text-zinc-500 text-center">
+        <p>&copy; 2026 Manhwa Character Wiki. Partnered with <a href="https://tooncraze.com" class="text-purple-400">ToonCraze.com</a></p>
     </footer>
 </body>
 </html>
