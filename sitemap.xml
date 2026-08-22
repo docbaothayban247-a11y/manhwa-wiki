@@ -11,6 +11,11 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://manhwa-wiki.netlify.app/madam.html</loc>
+    <lastmod>2026-08-21</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://manhwa-wiki.netlify.app/the-novels-extra-remake.html</loc>
     <lastmod>2026-08-21</lastmod>
     <priority>0.8</priority>
@@ -1897,11 +1902,6 @@
   </url>
   <url>
     <loc>https://manhwa-wiki.netlify.app/night-hospital.html</loc>
-    <lastmod>2026-08-21</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://manhwa-wiki.netlify.app/madam.html</loc>
     <lastmod>2026-08-21</lastmod>
     <priority>0.8</priority>
   </url>
