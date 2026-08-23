@@ -11,6 +11,21 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://manhwa-wiki.netlify.app/is-there-an-empty-room.html</loc>
+    <lastmod>2026-08-21</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://manhwa-wiki.netlify.app/from-pauper-to-prince.html</loc>
+    <lastmod>2026-08-21</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://manhwa-wiki.netlify.app/boundless-necromancer.html</loc>
+    <lastmod>2026-08-21</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://manhwa-wiki.netlify.app/genius-of-the-unique-lineage.html</loc>
     <lastmod>2026-08-21</lastmod>
     <priority>0.8</priority>
@@ -1046,11 +1061,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://manhwa-wiki.netlify.app/is-there-an-empty-room.html</loc>
-    <lastmod>2026-08-21</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://manhwa-wiki.netlify.app/my-stepmom.html</loc>
     <lastmod>2026-08-21</lastmod>
     <priority>0.8</priority>
@@ -1522,11 +1532,6 @@
   </url>
   <url>
     <loc>https://manhwa-wiki.netlify.app/prison-revenge.html</loc>
-    <lastmod>2026-08-21</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://manhwa-wiki.netlify.app/from-pauper-to-prince.html</loc>
     <lastmod>2026-08-21</lastmod>
     <priority>0.8</priority>
   </url>
