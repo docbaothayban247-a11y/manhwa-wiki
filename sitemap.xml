@@ -11,6 +11,21 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://manhwa-wiki.netlify.app/hero-has-returned.html</loc>
+    <lastmod>2026-08-21</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://manhwa-wiki.netlify.app/locked-up.html</loc>
+    <lastmod>2026-08-21</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://manhwa-wiki.netlify.app/i-ended-up-in-the-world-of-murim.html</loc>
+    <lastmod>2026-08-21</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://manhwa-wiki.netlify.app/love-letter-from-the-future.html</loc>
     <lastmod>2026-08-21</lastmod>
     <priority>0.8</priority>
@@ -2466,11 +2481,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://manhwa-wiki.netlify.app/locked-up.html</loc>
-    <lastmod>2026-08-21</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://manhwa-wiki.netlify.app/my-harem-revenge.html</loc>
     <lastmod>2026-08-21</lastmod>
     <priority>0.8</priority>
@@ -2487,11 +2497,6 @@
   </url>
   <url>
     <loc>https://manhwa-wiki.netlify.app/my-sweet-home.html</loc>
-    <lastmod>2026-08-21</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://manhwa-wiki.netlify.app/i-ended-up-in-the-world-of-murim.html</loc>
     <lastmod>2026-08-21</lastmod>
     <priority>0.8</priority>
   </url>
