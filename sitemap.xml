@@ -11,6 +11,66 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://manhwa-wiki.netlify.app/no-men-allowed.html</loc>
+    <lastmod>2026-08-21</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://manhwa-wiki.netlify.app/secret-class.html</loc>
+    <lastmod>2026-08-21</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://manhwa-wiki.netlify.app/knot-my-secret.html</loc>
+    <lastmod>2026-08-21</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://manhwa-wiki.netlify.app/find-my-hotkey.html</loc>
+    <lastmod>2026-08-21</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://manhwa-wiki.netlify.app/i-m-here-for-you.html</loc>
+    <lastmod>2026-08-21</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://manhwa-wiki.netlify.app/boo-tiful-nightmare.html</loc>
+    <lastmod>2026-08-21</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://manhwa-wiki.netlify.app/the-seed-of-destiny.html</loc>
+    <lastmod>2026-08-21</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://manhwa-wiki.netlify.app/signed-sealed-mistaken.html</loc>
+    <lastmod>2026-08-21</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://manhwa-wiki.netlify.app/show-me-your-bust.html</loc>
+    <lastmod>2026-08-21</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://manhwa-wiki.netlify.app/my-high-school-bully.html</loc>
+    <lastmod>2026-08-21</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://manhwa-wiki.netlify.app/my-eyes-now-see-desire.html</loc>
+    <lastmod>2026-08-21</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://manhwa-wiki.netlify.app/ground-and-pound.html</loc>
+    <lastmod>2026-08-21</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://manhwa-wiki.netlify.app/noona-and-her-big-little-bro.html</loc>
     <lastmod>2026-08-21</lastmod>
     <priority>0.8</priority>
@@ -1441,16 +1501,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://manhwa-wiki.netlify.app/ground-and-pound.html</loc>
-    <lastmod>2026-08-21</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://manhwa-wiki.netlify.app/my-eyes-now-see-desire.html</loc>
-    <lastmod>2026-08-21</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://manhwa-wiki.netlify.app/academys-undercover-professor-ahadabc.html</loc>
     <lastmod>2026-08-21</lastmod>
     <priority>0.8</priority>
@@ -1477,16 +1527,6 @@
   </url>
   <url>
     <loc>https://manhwa-wiki.netlify.app/worlds-strongest-survivor.html</loc>
-    <lastmod>2026-08-21</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://manhwa-wiki.netlify.app/my-high-school-bully.html</loc>
-    <lastmod>2026-08-21</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://manhwa-wiki.netlify.app/show-me-your-bust.html</loc>
     <lastmod>2026-08-21</lastmod>
     <priority>0.8</priority>
   </url>
@@ -1536,16 +1576,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://manhwa-wiki.netlify.app/signed-sealed-mistaken.html</loc>
-    <lastmod>2026-08-21</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://manhwa-wiki.netlify.app/the-seed-of-destiny.html</loc>
-    <lastmod>2026-08-21</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://manhwa-wiki.netlify.app/heart-level.html</loc>
     <lastmod>2026-08-21</lastmod>
     <priority>0.8</priority>
@@ -1566,16 +1596,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://manhwa-wiki.netlify.app/boo-tiful-nightmare.html</loc>
-    <lastmod>2026-08-21</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://manhwa-wiki.netlify.app/i-m-here-for-you.html</loc>
-    <lastmod>2026-08-21</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://manhwa-wiki.netlify.app/climb-me-hard.html</loc>
     <lastmod>2026-08-21</lastmod>
     <priority>0.8</priority>
@@ -1587,11 +1607,6 @@
   </url>
   <url>
     <loc>https://manhwa-wiki.netlify.app/ring-of-might.html</loc>
-    <lastmod>2026-08-21</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://manhwa-wiki.netlify.app/find-my-hotkey.html</loc>
     <lastmod>2026-08-21</lastmod>
     <priority>0.8</priority>
   </url>
@@ -1631,17 +1646,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://manhwa-wiki.netlify.app/knot-my-secret.html</loc>
-    <lastmod>2026-08-21</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://manhwa-wiki.netlify.app/death-is-the-only-ending-for-the-villainess-beaabc.html</loc>
-    <lastmod>2026-08-21</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://manhwa-wiki.netlify.app/secret-class.html</loc>
     <lastmod>2026-08-21</lastmod>
     <priority>0.8</priority>
   </url>
@@ -1737,11 +1742,6 @@
   </url>
   <url>
     <loc>https://manhwa-wiki.netlify.app/mr-devourer-please-act-like-a-final-boss.html</loc>
-    <lastmod>2026-08-21</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://manhwa-wiki.netlify.app/no-men-allowed.html</loc>
     <lastmod>2026-08-21</lastmod>
     <priority>0.8</priority>
   </url>
