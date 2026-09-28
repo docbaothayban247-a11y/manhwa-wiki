@@ -11,6 +11,11 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://manhwa-wiki.netlify.app/amusement-park-raw.html</loc>
+    <lastmod>2026-08-21</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://manhwa-wiki.netlify.app/department-store-ladies.html</loc>
     <lastmod>2026-08-21</lastmod>
     <priority>0.8</priority>
@@ -11132,11 +11137,6 @@
   </url>
   <url>
     <loc>https://manhwa-wiki.netlify.app/bizarre-restaurant.html</loc>
-    <lastmod>2026-08-21</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://manhwa-wiki.netlify.app/amusement-park-raw.html</loc>
     <lastmod>2026-08-21</lastmod>
     <priority>0.8</priority>
   </url>
